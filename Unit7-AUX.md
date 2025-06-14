@@ -50,3 +50,27 @@
 
 
 ## May
+
+### Chỉ sự cho phép 1 cách lịch sự hoặc do luật quy định.
+  - You **may** go <> yoy **can** go. *Bạn có thể đi* (lịch sự hơn)
+  - You **may** swim in this lake. *Bạn có thể bơi trong hồ này* (theo luật quy định, mình có thể bơi hoặc k bơi.)
+
+### Chỉ khả năng xẩy ra hành động > 50%
+  - Lan **may** come together with Mai. *Lan có thể đến cùng với Mai*
+  - Lan is a doctor:
+    - Lan **may** be a doctor. *Lan có thể là bác sĩ* (khả năng 50% vì không chắc chắn)
+    - Lan **can** be a doctor. *Lan có thể là bác sĩ* (khả năng 80% vì có thể rèn luyện được)
+    - Lan **must** be a doctor. *Lan chắc chắn là bác sĩ* (khả năng 100% vì chắc chắn là bác sĩ)
+
+> ### **_NOTE:_** 
+> Maybe (viết liền) là 1 trạng từ.
+> 
+> Ví dụ: 
+> - Maybe, She is a doctor. *Có thể, cô ấy là bác sĩ*.
+> - There may be a bus at 21. *Có thể có xe buýt lúc 21 giờ*.
+>
+> Must 100%
+>
+> Can 80%
+> 
+> May 50%
