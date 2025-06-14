@@ -96,7 +96,7 @@ Aux duy nhất phải **chia** theo ngôi
 ## II. Trợ động từ hình thái thời gian Shall/Will
 
 ### Hình thái
-Tạo ra thì tương lai => dịch: Sẽ làm gì.\
+Tạo ra thì tương lai => dịch: Sẽ làm gì.
 
 ```
 I, we + shall <BrE>
@@ -111,3 +111,23 @@ You, he, she, it, they, we + will <AmE>
   - I **will** be off tomorrow. *Ngày mai em nghỉ* (k có chữ sẽ).
   - The band **will** be on in 20 minutes. *Ban nhạc lên sân khấu trong 20 phút nữa*.
   - We **will** dine[Vi] with my friends at about 8 this evening. *Tối nay chúng ta ăn tối với bạn bè vào khoảng 8 giờ*.
+
+> #### **_NOTE:_**
+> Nếu như nói về 1 sự kiện trong tương lai chắc chắn xảy ra, hay 1 kế hoạch 1 thời gian biểu đã được sắp xếp thì dùng thì hiện tại đơn.
+> - I ~~will~~ **have** to leave early today. *Hôm nay tôi phải rời đi sớm*.
+> - Mr John ~~will~~ is out of town this week. *Tuần này ông John đi công tác*.
+> - My birthday ~~will~~ falls on a Sartuday. *Sinh nhật của tôi rơi vào thứ 7*. 
+
+## III. Trợ động từ biểu thái thời gian Shall/Will.
+Trong tiếng anh có 2 AUX Shall/Will vừa là AUX **hình thái thời gian** để tạo ra _thì tương lai_ vừa là AUX **biểu thái** nói _lên nguyện vọng, ý chí_.
+
+
+### 1. Shall
+#### Dùng cho ngôi 2,3 hứa hẹn về 1 điều gì đó.
+ - You **shall** have this money. *mày sẽ có số tiền đó* (you + shall vì ở đây hiểu là AUX biểu thái chứ k phải AUX hình thái thời gian)
+#### Dùng cho ngôi 2,3 để đe dọa.
+  - You **shall** be sorry for it one day. *Bạn sẽ hối hận vì điều đó một ngày nào đó*.
+
+### 2. Will
+#### Dùng cho ngôi 1 để biểu thị sự quyết tâm hoặc sẵn sàng làm gì.
+  - I **will** help you.
