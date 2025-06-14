@@ -1,7 +1,7 @@
 # UNIT 7: Trợ động từ AUX
 ## Sơ đồ
 - AUX + V
-## Can
+## 1. Can
 ### Chỉ năng lực rèn luyện mà có được
   - I **can** swim. *tôi có thể bơi*
   - I **can** play the guitar. *tôi có thể chơi guitar*
@@ -20,7 +20,7 @@
 > Cả 1 và 2 đều chỉ năng lực và sự cho phép nhưng (1) trang trọng hơn (2).
 > - I want to be able to speak English fluently. *Tôi muốn có thể nói tiếng Anh trôi chảy*.
 
-## Must
+## 2. Must
 ### Chỉ sự bắt buộc, cần thiết theo ý chủ quan của người nói, hoặc theo luật quy định.
   <!-- - You **must** wear a helmet when riding a motorbike. *Bạn phải đội mũ bảo hiểm khi đi xe máy*
   - You **must** finish your homework before going out. *Bạn phải hoàn thành bài tập về nhà trước khi ra ngoài* -->
@@ -31,12 +31,9 @@
   - A driver **must** be able to read traffic signs. *Tài xế phải đọc được biển báo giao thông*
 
 > ### **_NOTE:_**  Phân biệt must (2) và (to) have to V (1).
-> 1 chỉ hoàn cảnh khách quan quy định. 
-> 
-> 2 chỉ hoàn cảnh mang tính chủ quan.
-> 
-> I must go home by 10. *Tôi phải về nhà trước 10 giờ*. (2: hoàn cảnh nhà xa phải về sớm mình tự thấy phải về sớm.)
-> 
+> 1 chỉ hoàn cảnh khách quan quy định.\
+> 2 chỉ hoàn cảnh mang tính chủ quan.\
+> I must go home by 10. *Tôi phải về nhà trước 10 giờ*. (2: hoàn cảnh nhà xa phải về sớm mình tự thấy phải về sớm.)\
 > I have to go home by 10. (1: hoàn cảnh bố mẹ bắt về sớm)
 >
 ### Chỉ phán đoán chắc chắn xảy ra 100%
@@ -49,7 +46,7 @@
  - We must **meet**[Vi] for dinner soon. *Chúng ta phải gặp nhau ăn tối sớm*
 
 
-## May
+## 3. May
 
 ### Chỉ sự cho phép 1 cách lịch sự hoặc do luật quy định.
   - You **may** go <> yoy **can** go. *Bạn có thể đi* (lịch sự hơn)
@@ -57,20 +54,41 @@
 
 ### Chỉ khả năng xẩy ra hành động > 50%
   - Lan **may** come together with Mai. *Lan có thể đến cùng với Mai*
+  - There **may** be a bus at 21. *Có thể có xe buýt lúc 21 giờ*.
   - Lan is a doctor:
     - Lan **may** be a doctor. *Lan có thể là bác sĩ* (khả năng 50% vì không chắc chắn)
     - Lan **can** be a doctor. *Lan có thể là bác sĩ* (khả năng 80% vì có thể rèn luyện được)
     - Lan **must** be a doctor. *Lan chắc chắn là bác sĩ* (khả năng 100% vì chắc chắn là bác sĩ)
 
 > ### **_NOTE:_** 
-> Maybe (viết liền) là 1 trạng từ.
-> 
+> Maybe (viết liền) là 1 trạng từ.\
 > Ví dụ: 
 > - Maybe, She is a doctor. *Có thể, cô ấy là bác sĩ*.
-> - There may be a bus at 21. *Có thể có xe buýt lúc 21 giờ*.
 >
-> Must 100%
->
-> Can 80%
-> 
+> Must 100%\
+> Can 80%\
 > May 50%
+
+## 4. Should
+
+### Chỉ lời khuyên, gợi ý
+  - You **should** see a doctor. *Bạn nên đi khám bác sĩ*
+  - You **should** be careful about your health. *Bạn nên cẩn thận về sức khỏe của mình*
+
+> It is advisable to .... => Nên làm gì ...\
+> Ex: It is advisable to see a doctor. *Nên đi khám bác sĩ*\
+> Ex: It is advisable to drive carefully in wet weather. *Nên lái xe cẩn thận trong thời tiết ẩm ướt*
+
+
+### Chỉ sự cần thiết làm gì
+ - You **should** turn off your phone. *Bạn nên tắt điện thoại của mình* (nhẹ nhành hơn must)
+
+
+## 5. Do
+Aux duy nhất phải **chia** theo ngôi
+
+### Dùng để nhấn mạnh
+  - I **do** love you. *Tôi thực sự yêu bạn*
+  - I **do** want to help you. *Tôi thực sự muốn giúp bạn*
+  - **Do** take a sit. *Ngồi đi* (Nhấn mạnh mệnh lệnh thức)
+
