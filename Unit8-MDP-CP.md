@@ -39,4 +39,4 @@ Nghĩa: bởi vì, vì (không chú trọng tính nguyên nhân)
 
 > #### **_NOTE:_**: MĐP có thể đảo lên đầu câu, sau đó có dấu phảy
 > As my wife is away, I am very busy with my kids.
-
+> #### Ta 
