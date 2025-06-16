@@ -21,7 +21,7 @@ Có 3 loại MĐP:
 2. Mệnh đề phụ danh ngữ (Noun Clause)
 3. Mệnh đề phụ tính ngữ (Adjective Clause)
 
-## III. Mênh đề phụ trạng ngữ (Adverbial Clause)
+## III. Mệnh đề phụ trạng ngữ (Adverbial Clause)
 Dùng để nói rõ về thời gian, cách thức, nguyên nhân, điều kiện.
 ### 3.1. Mệnh đề  phụ trạng ngữ chỉ nguyên nhân.
 #### 3.1.1 Because [cronj]
@@ -31,3 +31,12 @@ Dùng để nói rõ về thời gian, cách thức, nguyên nhân, điều ki�
 
 
 > #### **_NOTE:_**: Because hay viết tắt là cos.
+
+#### 3.1.1.2 As [cronj]
+Nghĩa: bởi vì, vì (không chú trọng tính nguyên nhân)
+
+  - I am very busy [with my kids](trạng nội dung) [**as** my wife is away](mệnh đề phụ trạng ngữ).
+
+> #### **_NOTE:_**: MĐP có thể đảo lên đầu câu, sau đó có dấu phảy
+> As my wife is away, I am very busy with my kids.
+
