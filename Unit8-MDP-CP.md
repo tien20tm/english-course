@@ -24,7 +24,7 @@ Có 3 loại MĐP:
 ## III. Mệnh đề phụ trạng ngữ (Adverbial Clause)
 Dùng để nói rõ về thời gian, cách thức, nguyên nhân, điều kiện.
 ### 3.1. Mệnh đề  phụ trạng ngữ chỉ nguyên nhân.
-#### 3.1.1 Because [cronj]
+#### 3.1.1 Because [conj]
 Nghĩa: bởi vì, vì (chú trọng tính nguyên nhân)
 - She [wants] (động từ chính) [to learn] (thành tố thời gian) English [because she will go aboard] (trạng ngữ dùng mệnh đề).
 - She comes to see us very often [to chat with us] (mệnh đề phụ trạng ngữ chỉ mục đích). *Cô ấy đến thăm chúng tôi rất thường xuyên để trò chuyện với chúng tôi*.
@@ -32,7 +32,7 @@ Nghĩa: bởi vì, vì (chú trọng tính nguyên nhân)
 
 > #### **_NOTE:_**: Because hay viết tắt là cos.
 
-#### 3.1.2 As [cronj]
+#### 3.1.2 As [conj]
 Nghĩa: bởi vì, vì (không chú trọng tính nguyên nhân)
 
   - I am very busy [with my kids](trạng nội dung) [**as** my wife is away](mệnh đề phụ trạng ngữ).
@@ -51,22 +51,22 @@ Nghĩa: bởi vì, vì (không chú trọng tính nguyên nhân)
 
 
 ### 3.2. Mệnh đề phụ trạng ngữ chỉ thời gian.
-#### 3.2.1 When [cronj]
+#### 3.2.1 When [conj]
 Nghĩa: khi, lúc, vào lúc, trong khi (chỉ thời gian)
   -  When you have a cold, we sneeze a lot. *Khi bạn bị cảm, chúng ta hắt hơi rất nhiều*. (Mệnh đề phụ trạng ngữ chỉ thời gian, được đảo lên đầu)
 
-#### 3.2.2 While [cronj-ph]
+#### 3.2.2 While [conj-ph]
 Nghĩa: trong khi, trong lúc, khi mà (chỉ thời gian)
   - Hold my hand while we cross the street. *Nắm tay tôi trong khi chúng ta băng qua đường*.
   
 > #### **_NOTE:_**
-> **cronj-ph** không được tỉnh lược các thành phần giống nhau, vì vậy câu trên phải có "we"
+> **conj-ph** không được tỉnh lược các thành phần giống nhau, vì vậy câu trên phải có "we"
 
-#### 3.2.3 Whenever [cronj-ph]
+#### 3.2.3 Whenever [conj-ph]
 Nghĩa: mỗi khi, hễ.
   - He takes off his hat **whenever** he meets the old. *Anh ấy cởi mũ mỗi khi gặp người già*.
 
-#### 3.2.4 Before [cronj] >< After [cronj]
+#### 3.2.4 Before [conj] >< After [conj]
 Nghĩa: trước khi.
   - I always read a book before I go to bed. *Tôi luôn đọc sách trước khi đi ngủ*. (Mệnh đề phụ trạng ngữ chỉ thời gian, "before" là liên từ chỉ thời gian)
   - I always read a book [before bed time](prep + N). *Tôi luôn đọc sách trước giờ đi ngủ*. ("before" là giới từ chỉ thời gian)
@@ -78,7 +78,7 @@ Nghĩa: trước khi.
 >  - Call me when you **get** home.
 
 ### 3.3 Mệnh đề phụ trạng ngữ chỉ điều kiện
-#### 3.3.1 If [cronj-ph]
+#### 3.3.1 If [conj-ph]
 Nghĩa: nếu, giả sử, trong trường hợp
   - If you go with me, I will pay for you lunch. *Nếu bạn đi với tôi, tôi sẽ trả tiền bữa trưa cho bạn*.
   - John is always late. If he gets here on time, I will eat my hat. *John luôn đến muộn. Nếu anh ấy đến đúng giờ, tôi sẽ đi đầu xuống đất.*
@@ -86,3 +86,49 @@ Nghĩa: nếu, giả sử, trong trường hợp
   - You will have to work hard on English if ... *Bạn sẽ phải làm việc chăm chỉ với tiếng Anh nếu ...*.
   - If someone requests to follow you, you can accept or decline the request. *Nếu ai đó yêu cầu theo dõi bạn, bạn có thể chấp nhận hoặc từ chối yêu cầu đó*.
   - If you ride the bus a lot, you should buy a [monthly](Adj) ticket. *Nếu bạn đi xe buýt nhiều, bạn nên mua vé tháng*.
+
+#### 3.3.2 If + MDP, then + MDC
+Nghĩa: nếu ..., thì...
+  - If I pay for dinner, then we are even. *Nếu tôi trả tiền bữa tối, thì chúng ta hòa*. (even[adj]: bằng)
+
+#### 3.3.3 In case [conj-kép]
+Nghĩa: Trong trường hợp, đề phòng, ngỗ nhỡ, nhỡ may,...
+  - Leave home early in case there is too much traffic. *Chúng ta đi sớm, đề phòng bị kẹt xe*.
+### 3.4 Mệnh đề trạng cách thức
+#### 3.4.1 Like[conj]
+  - He works **like** mad. *Anh ấy làm việc như điên*.
+#### 3.4.2 As [conj]
+Nghĩa: như ~ like
+  - Do the job **as/like** I do it.
+
+
+## IV. Câu phụ trạng ngữ.
+Câu phụ có thể đi trước hoặc đi sau câu chính, nếu nối bằnh liên từ dù trước hay sau đều có dấu phẩy.\
+Câu phụ đi sau câu chính và nối bằng trạng từ thì trước đó có dấu chấm.
+
+### 4.1 Câu phụ trạng ngữ so sánh, đối chiếu.
+#### 4.1.1 While [conj]
+Nghĩa: còn ... thì ....
+  - The elder sister is diligent, while the young sister is lazy. *Chị cả thì chăm chỉ, còn em út thì lười biếng*.
+  - Politics is war without blood, while war is politics with blood. *Chính trị là chiến tranh không đổ máu, còn chiến tranh là chính trị có đổ máu*.
+
+#### 4.1.2 Whereas [conj][fml] ~ While [conj]
+Nghĩa: trong khi, trái lại, ngược lại
+  - He is very rich, whereas his brother is very poor. *Anh ấy rất giàu, trong khi anh trai thì rất nghèo*.
+  - I like tea, whereas my wife likes coffee. *Tôi thích trà, trong khi vợ tôi thích cà phê*.
+
+### 4.2 Câu phụ bổ sung.
+#### 4.2.1 But [adv]
+  - Just like humans, trees breathe. But, while humans inhale oxygen and exhale carbon dioxide, trees do the opposite.
+#### 4.2.2 Also [adv]
+Nghĩa: ngoài ra, với lại, thêm nữa.
+  - I don't like the restaurants. Also, the meals are really expensive. *Tôi không thích nhà hàng. Ngoài ra, các bữa ăn thực sự đắt đỏ*.
+  
+#### 4.2.3 Besides [adv/adj]
+Nghĩa: ngoài ra.
+  - [Besides apples](prep + N), we have avocadoes, oranges, and bananas. *Ngoài táo, chúng tôi có bơ, cam và chuối*.
+  - You are beautiful. Besides, you are a good girl. *Bạn xinh đẹp. Ngoài ra, bạn là một cô gái tốt*.
+
+#### 4.2.4 As well as [conj] 
+Nghĩa: cũng như là
+  - She is busy at her office **as well as** at home.
