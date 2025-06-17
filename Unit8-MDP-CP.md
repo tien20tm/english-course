@@ -132,3 +132,29 @@ Nghĩa: ngoài ra.
 #### 4.2.4 As well as [conj] 
 Nghĩa: cũng như là
   - She is busy at her office **as well as** at home.
+  - In the lives of Gen Z, technology has numerous benefits **as well as** drawbacks. *Trong cuộc sống của thế hệ Z, công nghệ có nhiều lợi ích cũng như nhược điểm*.
+> #### **_Mở rộng:_**
+>  ... as well: => cũng, cả nữa.
+>  - She is nice. Her sister is nice (as well)[adv]. *Cô ấy tốt. Chị cô ấy cũng tốt*.
+>  - Be friends with the good people and you will be a good person **as well**. *Hãy kết bạn với người tốt, và bạn cũng sẽ tốt*.
+>  - She is good at English and Chinese **as well**.
+
+### 4.3 Câu phụ nhượng bộ.
+#### 4.3.1 Though [conj]
+Nghĩa: dù, tuy ... (nhưng) ...
+  - **Though** he is over 80, he still strong. *Dù ông ấy đã hơn 80 tuổi, ông ấy vẫn khỏe mạnh*. 
+#### 4.3.2 Although [conj][fml]
+Nghĩa: dù, tuy ... nhưng .... ~~ 
+    - **Although** it was raining, we went out. *Dù trời mưa, chúng tôi vẫn ra ngoài*.
+
+> #### **_NOTE:_**
+> Thought còn là 1 adv đứng cuối câu.
+>   - He is over 80. He is still strong, thought.
+
+### 4.4 Câu phụ trạng hệ quả.
+#### 4.4.1 So [conj/adv]
+Nghĩa: đâm ra, thành thử thế nên.
+  - You are so kind (adv). 
+  - This tea is very hot, **so** be careful. *Trà này rất nóng, vì vậy hãy cẩn thận*.
+  - Life is shot, **so** smile when you have teeth. *Cuộc sống ngắn ngủi, vì vậy hãy cười khi bạn còn có thể*.
+  - 
