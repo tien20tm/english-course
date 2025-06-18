@@ -79,3 +79,4 @@ a/number + N chỉ thời gian => ... gì đó
 
  - A year or so => *một năm gì đó*.
  - 2 years or so => *Hai năm gì đó*.
+ - We plan to stay a week or so. *Chúng tôi dự định ở lại khoảng một tuần*.
