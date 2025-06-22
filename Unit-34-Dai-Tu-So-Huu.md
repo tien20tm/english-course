@@ -7,3 +7,19 @@ Nguyên lý thêm đuôi s và sau tính từ sở hữu trừ MINE và HIS\
 Dùng với Of để tránh xung đột.
  - There are some my books.(không được dùng bất định some với sở hữu my) => There are some books [of mine](Tính sau <= Prep + N).
  - I don't like any her friends.(sai) => I don't like any friends of hers/Lan's.
+
+
+ ## Bảng đại từ nhân xưng và đại từ sở hữu
+
+## Bảng đại từ nhân xưng và đại từ sở hữu
+
+| Đại từ nhân xưng | Tân ngữ | Đại từ phản thân | Đại từ sở hữu | Tính từ sở hữu |
+| ---------------- | ------- | ---------------- | ------------- | -------------- |
+| I                | Me      | Myself           | Mine          | My             |
+| We               | Us      | Ourselves        | Ours          | Our            |
+| You (số ít)      | You     | Yourself         | Yours         | Your           |
+| You (số nhiều)   | You     | Yourselves       | Yours         | Your           |
+| He               | Him     | Himself          | His           | His            |
+| She              | Her     | Herself          | Hers          | Her            |
+| It               | It      | Itself           | Its           | Its            |
+| They             | Them    | Themselves       | Theirs        | Their          |
