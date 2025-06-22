@@ -86,3 +86,51 @@ Chỉ dùng trong câu phỉ định và những câu có last/only/first
 **Until now/up to now/so far/to date[adv]: cho đến giờ, đến nay**
   - Everything has been ok **up to now**. *Mọi thứ đều ổn cho đến giờ*.
   - So far they haven't found away to fight the virus. *Đến nay họ vẫn chưa tìm ra cách để chống lại virus*.
+
+
+**(all) these + N chỉ thời gian => suốt .... nay**
+ - She has worked here all these 20 years. *Cô ấy đã làm việc ở đây suốt 20 năm nay*.
+
+**Lately [adv]: gần đây ~ Recently [adv]: gần đây**
+ - I have seen him lately. *Tôi đã gặp anh ấy gần đây*.
+ - I have been busy lately. *Tôi đã bận rộn gần đây*.
+ - The study of genes has come a long way in recent years. 
+ - *Nghiên cứu về gen đã tiến xa trong những năm gần đây*.
+
+#### 2.2.2 Mảng ý nghĩa thứ hai.
+Việc xảy ra và xong hẳn trong quá khứ nhưng hệ quả vẫn còn đó. Người nói chỉ quan tâm đến hệ quả ấy, mà không quan tâm đến bản thân hành động, hay nói cách khác là chỉ quan tâm đến hệ quả của hành động đã qua ( gọi là hiện tượng hàm ngôn).
+Khi dịch sang tiếng việt ở mảng này thường có những từ như là "đã, đã rồi".
+
+ - I cut my finger.(chỉ hành động bị đứt tay mà không liên đến hiện tại => QKĐ)
+ - I have cut my finger. (chỉ quan tâm đến hệ quả là bị đứt tay, muốn nói hiện tại máu vẫn chảy => hiện tại hoàn thành)
+ - Damm it, I have forgotten my keys. *Thật là tôi lại quên chìa khóa rồi*.( việc quên chìa khóa đã quên rồi, nhưng tại thời điểm nói đang ở trước cửa nhà và không vào được => hiện tại hoàn thành)
+
+
+#### 2.2.3 Mảng ý nghĩa thứ ba.
+Thời gian nói trong câu gồm cả hiện tại.
+Nếu là các buổi trong ngày (this morning, this afternoon) có thể dùng quá khứ đơn khi nói vào chiều tối. Nếu còn trong buổi sáng thì bắt buộc dùng hiện tại hoàn thành.
+Nếu là tuần, tháng, năm thì phải dùng hiện tại hoàn thành.
+ - I have made 2 shirts this morning. *Tôi đã làm 2 cái áo sơ mi sáng nay*. (buổi sáng: 7-11h, thời điểm nói là 10h30)
+ - I made 2 shirts this morning. *Tôi đã làm 2 cái áo sơ mi sáng nay*. (buổi sáng: 7-11h, thời điểm nói là 19h30)
+ - I have watched 2 films this week. *Tôi đã xem 2 bộ phim trong tuần này*.
+
+
+## III. Phủ định và nghi vấn của hiện tại hoàn thành.
+### 3.1 Phủ định
+Với các thì đơn giản thì phủ định dịch là "không", với các thì hoàn thành phủ định dịch là "chưa".
+
+ - I haven't done my homework. *Tôi chưa làm bài tập về nhà*.
+ - She hasn't seen him. *Cô ấy chưa gặp anh ấy*.
+ - Be quite! He hasn't finished speaking. *Im lặng! Anh ấy chưa nói xong*.
+
+Tuy nhiên nếu có các trạng từ chỉ thời gian => dịch là **không**
+ - He hasn't been very well lately. *Gần đây anh ấy không được khỏe lắm*.
+
+### 3.2 Nghi vấn
+
+```
+Have you done ... ??? => đã ... chưa?
+```
+ - Have you done your homework? *Bạn đã làm bài tập về nhà chưa?*
+ - Has she seen him? *Cô ấy đã gặp anh ấy chưa?*.
+ - Has he finished speaking? *Anh ấy đã nói xong chưa?*.
