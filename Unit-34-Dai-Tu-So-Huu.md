@@ -9,8 +9,6 @@ Dùng với Of để tránh xung đột.
  - I don't like any her friends.(sai) => I don't like any friends of hers/Lan's.
 
 
- ## Bảng đại từ nhân xưng và đại từ sở hữu
-
 ## Bảng đại từ nhân xưng và đại từ sở hữu
 
 | Đại từ nhân xưng | Tân ngữ | Đại từ phản thân | Đại từ sở hữu | Tính từ sở hữu |
