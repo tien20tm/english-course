@@ -25,8 +25,12 @@ The goal of this project is to:
 8. [Unit 14: Tân ngữ có giới từ](./Unit14-Tan-Ngu-Co-Gioi-Tu.md)
 9. [Unit 15: Thay thế động từ và kết cấu động từ](./Unit15-Thay-The-Dong-Tu-Va-Ket-Cau-Dong-Tu.md)
 10. [Unit 16: Nghi vấn](./Unit16-Nghi-Van.md)
-11. [Unit 33: Thì hiện tại hoàn thành](./Unit33-Thi-Hien-Tai-Hoan-Thanh.md)
-12. [Unit 34: Đại từ sở hữu](./Unit34-Dai-Tu-So-Huu.md)
+11. [Unit 17: Cách dùng Any](./Unit17-Cach-Dung-Any.md)
+12. [Unit 18: Đại từ It](./Unit18-Dai-Tu-It.md)
+13. [Unit 19: Nghi vấn Phủ định và Câu hỏi Phân cách](./Unit19-Nghi-Van-Phu-Dinh-Va-Cau-Hoi-Phan-Cach%20copy.md)
+14. [Unit 20: Số từ Thứ tự](./Unit20-So-Tu-Thu-Tu.md)
+15. [Unit 33: Thì hiện tại hoàn thành](./Unit33-Thi-Hien-Tai-Hoan-Thanh.md)
+16. [Unit 34: Đại từ sở hữu](./Unit34-Dai-Tu-So-Huu.md)
 
 ---
 This project is a personal initiative to enhance my English skills and document my learning process.
