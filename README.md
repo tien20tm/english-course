@@ -13,6 +13,7 @@ The goal of this project is to:
 - Practice using the examples in real-life scenarios.
 - Continuously update the notes as I learn new concepts.
 
+
 ## Table of Contents
 
 1. [Unit 7: Trợ động từ AUX](./Unit7-Tro-Dong-Tu.md)
@@ -29,8 +30,12 @@ The goal of this project is to:
 12. [Unit 18: Đại từ It](./Unit18-Dai-Tu-It.md)
 13. [Unit 19: Nghi vấn Phủ định và Câu hỏi Phân cách](./Unit19-Nghi-Van-Phu-Dinh-Va-Cau-Hoi-Phan-Cach%20copy.md)
 14. [Unit 20: Số từ Thứ tự](./Unit20-So-Tu-Thu-Tu.md)
-15. [Unit 33: Thì hiện tại hoàn thành](./Unit33-Thi-Hien-Tai-Hoan-Thanh.md)
-16. [Unit 34: Đại từ sở hữu](./Unit34-Dai-Tu-So-Huu.md)
+15. [Unit 21: Câu hỏi riêng phần](./Unit21-Cau-Hoi-Rieng-Phan.md)
+16. [Unit 22: Câu hỏi tỉnh lược](./Unit22-Cau-Hoi-Tinh-Luoc.md)
+17. [Unit 33: Thì hiện tại hoàn thành](./Unit33-Thi-Hien-Tai-Hoan-Thanh.md)
+18. [Unit 34: Đại từ sở hữu](./Unit34-Dai-Tu-So-Huu.md)
+19. [Unit 35: Đại từ phản thân](./Unit35-Dai-Tu-Phan-Than%20copy.md)
+20. [Unit 36: Mệnh đề danh từ bắt đầu bằng nghi vấn từ (WH)](./Unit36-Menh-De-Danh-Tu-WH.md)
 
 ---
 This project is a personal initiative to enhance my English skills and document my learning process.
