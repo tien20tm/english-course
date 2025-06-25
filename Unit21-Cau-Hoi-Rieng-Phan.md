@@ -72,6 +72,6 @@ Dịch: Của ai?
  - How beautiful is she? => *Cô ấy xinh đẹp như thế nào?* => She is very beautiful.
  - How fast can you run? => *Bạn có thể chạy nhanh như thế nào?* => I can run very fast.
 
-### 2.9.1 Làm ADV bổ ngữ
+### 2.9.2 Làm ADV bổ ngữ
  - How are you? => *Bạn khỏe không?* => I am fine.
  - How is everything? => *Mọi thứ thế nào?* => Everything is fine.
