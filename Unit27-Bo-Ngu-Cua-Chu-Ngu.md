@@ -57,5 +57,13 @@ Bổ chủ ngoài động từ be còn có nhiều động từ khác thuộc nh
  - Babies often fall down when they learn to walk. *Trẻ em thường ngã khi chúng học đi.* (Vi)
  - He *fell* in love with Halen. *Anh ấy đã yêu Halen.* (Vi-kr)
 
-**go[Vi-kr]**: Thường xuyên ở trạng thái nào.
- - Thousands of people go[Vi-kr]/be hungry every day. *Hàng nghìn người đói mỗi ngày.* (go là vi-kr, hungry là BC-Adj bổ nghĩa cho people, dùng go mang tính chất đói dài hạn).
+**go[Vi-kr]**: 
+ - Thường xuyên ở trạng thái nào.
+   - Thousands of people go[Vi-kr]/be hungry every day. *Hàng nghìn người đói mỗi ngày.* (go là vi-kr, hungry là BC-Adj bổ nghĩa cho people, dùng go mang tính chất đói dài hạn).
+ - Trở thành, biến thành, hóa ra.
+   - She went red when I said it. *Cô ấy đỏ mặt khi tôi nói điều đó.*
+   - If you leave mike in the sun, it goes sour quickly. *Nếu bạn để sữa ngoài nắng, nó sẽ nhanh chóng bị chua.*
+   - Don't pay for all this. Let's go share. *Đừng trả tiền cho tất cả những thứ này. Hãy cùng chia sẻ.*
+
+**feel[Vi-kr]**: cảm thấy mình như thế nào.
+ - I feel[Vi-kr] cold. *Tôi cảm thấy lạnh.*
