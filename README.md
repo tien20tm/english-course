@@ -13,7 +13,6 @@ The goal of this project is to:
 - Practice using the examples in real-life scenarios.
 - Continuously update the notes as I learn new concepts.
 
-
 ## Table of Contents
 
 1. [Unit 7: Trợ động từ AUX](./Unit7-Tro-Dong-Tu.md)
@@ -32,10 +31,23 @@ The goal of this project is to:
 14. [Unit 20: Số từ Thứ tự](./Unit20-So-Tu-Thu-Tu.md)
 15. [Unit 21: Câu hỏi riêng phần](./Unit21-Cau-Hoi-Rieng-Phan.md)
 16. [Unit 22: Câu hỏi tỉnh lược](./Unit22-Cau-Hoi-Tinh-Luoc.md)
-17. [Unit 33: Thì hiện tại hoàn thành](./Unit33-Thi-Hien-Tai-Hoan-Thanh.md)
-18. [Unit 34: Đại từ sở hữu](./Unit34-Dai-Tu-So-Huu.md)
-19. [Unit 35: Đại từ phản thân](./Unit35-Dai-Tu-Phan-Than%20copy.md)
-20. [Unit 36: Mệnh đề danh từ bắt đầu bằng nghi vấn từ (WH)](./Unit36-Menh-De-Danh-Tu-WH.md)
+17. [Unit 23: Thì Quá Khứ Đơn](./Unit23-Thi-Qua-Khu-Don.md)
+18. [Unit 24: Giới từ Of và Lượng từ](./Unit24-Gioi-Tu-Of-Va-Luong-Tu.md)
+19. [Unit 25: Đại từ thay thế ONE](./Unit25-Dai-Tu-Thay-The-ONE%20copy.md)
+20. [Unit 26: Cách dùng chữ ALL](./Unit26-Cach-Dung-Chu-All%20copy.md)
+21. [Unit 27: Bộ ngữ của chủ ngữ](./Unit27-Bo-Ngu-Cua-Chu-Ngu.md)
+22. [Unit 28: Thì hiện tại tiếp diễn](./Unit28-Thi-Hien-Tai-Tiep-Dien.md)
+23. [Unit 29: Thì quá khứ tiếp diễn](./Unit29-Thi-Qua-Khu-Tiep-Dien.md)
+24. [Unit 30: Đảo ngữ](./Unit30-Dao-Ngu.md)
+25. [Unit 31: Danh động từ - Gerund](./Unit31-Danh-Dong-Tu%20copy.md)
+26. [Unit 32: Ngoại động từ mang hai tân ngữ](./Unit32-Ngoai-Dong-Tu-Mang-2-Tan-Ngu.md)
+27. [Unit 33: Thì hiện tại hoàn thành](./Unit33-Thi-Hien-Tai-Hoan-Thanh.md)
+28. [Unit 34: Đại từ sở hữu](./Unit34-Dai-Tu-So-Huu.md)
+29. [Unit 35: Đại từ phản thân](./Unit35-Dai-Tu-Phan-Than%20copy.md)
+30. [Unit 36: Mệnh đề danh từ bắt đầu bằng nghi vấn từ (WH)](./Unit36-Menh-De-Danh-Tu-WH.md)
+31. [Unit 37: Mệnh đề danh từ Whether/If](./Unit37-Menh-De-If-Whether.md)
+32. [Unit 38: Câu cảm thán](./Unit38-Cau-Cam-Than%20copy.md)
+33. [Unit 39: Danh ngữ](./Unit39-Danh-Ngu.md)
 
 ---
 This project is a personal initiative to enhance my English skills and document my learning process.
