@@ -53,3 +53,68 @@ Xét về mặt ý nghĩa, bổ tân chia làm 2 loại:
 Ex:
  - I found her. *Tôi thấy cô ấy*
  - I find her beautiful. *Tôi thấy cô ấy đẹp* (đánh giá)
+
+
+
+## II. Từ và kết cấu từ làm bổ tân 
+### 1.1 Tính từ
+ - They shot(Vt) him(TT) [dead] (Adj làm bổ tân).
+ - Keep(Vt) the room(TT) [tidy] (Adj làm bổ tân).
+
+
+
+### 1.2 Danh từ
+
+> consider[vi]: coi như, xem như
+
+ - I consider(Vt) him(TT) [a good friend]  (Danh từ làm bổ tân).
+ - Emma calls me David (Danh từ làm bổ tân).
+
+### 1.3 Trạng từ
+
+- Put(Vt) the book down(Adv làm bổ tân) = (Put down) [VT] the book
+- Keep the dog in(Adv làm bổ tân)
+
+
+### 1.4 Hiện tại phân từ.
+
+#### 1.4.1 P1 là hành động đang diễn ra và kéo dài chưa xong và lúc Vt phát sinh.
+ - Lan is talking(BC - P1) with a stranger.
+ - I see(Vt) lan(BC) taking(BT) with a stranger.
+
+### 1.5 Dùng động từ nguyên thể không To
+Thường gặp với 10 Vt sau:
+ - (to) get/make sb do sth: làm/khiến cho ai đó làm gì.
+> Muscle cramps -> chuột rút.
+- Exercising too hard can make(VT) one(TT) get(BT) muscle cramps.
+> Let sb do sth -> để ai làm gì
+ - Let her go.
+
+
+
+
+# Cách dùng chữ Such
+
+
+
+## I. Làm thuộc ngữ
+Không bao giờ dùng với "the"
+
+```
+Such a/a + Adj + N
+```
+
+- such a nice girl. *Một cô gái đẹp như thế*
+- Ha noi is not such a good place to live. *Hà Nội không phải là một nơi tốt để sống như thế*.
+
+
+```
+Such + a/an + Adj + N + as + N2
+```
+
+
+ - Such a nice girl as Lan is hard to find. *Một cô gái đẹp như Lan thì khó tìm lắm*.
+
+
+## II. Làm đại từ
+ - Such is life. *Đời là như thế*.
