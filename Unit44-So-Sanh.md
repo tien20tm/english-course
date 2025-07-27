@@ -1,4 +1,4 @@
-# Unit 42: So sánh
+# Unit 44: So sánh
 
 Áp dụng cho tính từ và trạng từ, có 3 cấp so sánh: 
  - So sánh bằng
